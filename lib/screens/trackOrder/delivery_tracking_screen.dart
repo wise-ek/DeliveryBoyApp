@@ -30,7 +30,7 @@ class _DeliveryTrackingPageState extends State<DeliveryTrackingPage> {
   List<LatLng> _polylineCoordinates = [];
   bool _isPermissionGranted = false;
 
-  final String _googleApiKey = 'AIzaSyBlLAIe6UFqYXFo1rBPxEKnSVOowK1Vucw'; // Replace with your actual API key
+  final String _googleApiKey = ''; // Replace with your actual API key
 
   @override
   void initState() {
