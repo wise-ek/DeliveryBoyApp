@@ -20,6 +20,11 @@ A simple delivery management Flutter application with login, order tracking, and
 
 🧠 Uses Provider for state management
 
+## Test Credentials
+
+Phone: 9539039327
+OTP:   123456
+
 ---
 
 ## 🛠️ Setup Instructions
