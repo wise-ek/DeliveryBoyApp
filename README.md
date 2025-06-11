@@ -18,6 +18,8 @@ A simple delivery management Flutter application with login, order tracking, and
 
 🌗 Dark/light theme toggle
 
+🧠 Uses Provider for state management
+
 ---
 
 ## 🛠️ Setup Instructions
