@@ -1,16 +1,56 @@
-# boyapp
+# Delivery Boy App
 
-Delivery Boy App
+A simple delivery management Flutter application with login, order tracking, and theme switching features.
 
-## Getting Started
+## 📦 Features
 
-This project is a starting point for a Flutter application.
+✅ Login with phone number and OTP
 
-A few resources to get you started if this is your first Flutter project:
+📦 View and filter delivery orders
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📍 Mark orders as delivered
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📞 Call and 🧭 navigation buttons for orders
+
+🌍 location tracking of delivery person
+
+👤 Profile view and logout
+
+🌗 Dark/light theme toggle
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. **Clone the repository**
+
+git clone https://github.com/wise-ek/DeliveryBoyApp.git
+cd DeliveryBoyApp
+
+### 2. **Install Flutter dependencies**
+
+flutter pub get
+
+### 3. **Run the app in debug mode**
+flutter run
+
+### This project uses Firebase as a mock backend.
+
+Collections used:
+
+boys – for delivery boy login
+
+orders – for delivery orders
+
+### Notes
+The app uses Provider for state management.
+
+Make sure to enable required Firebase services (Firestore, etc.).
+
+
+ Author
+
+
+Muhammed Wise
+
+Spinecodes Solutions
