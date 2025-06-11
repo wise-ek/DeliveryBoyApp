@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707185932055",
+    "project_id": "boysapp-69198",
+    "storage_bucket": "boysapp-69198.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707185932055:android:0cfd710eeda5277be16952",
+        "android_client_info": {
+          "package_name": "com.example.boyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ16JIYjscL5eWkSQKBLj6JilWxQ9jcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
